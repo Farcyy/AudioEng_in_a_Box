@@ -73,3 +73,7 @@ resampy==0.4.3
 torchaudio==2.2.1
 tqdm==4.66.2
 pytorch_lightning==2.2.1
+sounddevice
+keras_tuner
+auraloss
+seaborn
